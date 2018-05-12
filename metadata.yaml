@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33352
     wikipedia: http://sv.wikipedia.org/wiki/Gustaf_af_Geijerstam
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28473#Boken-om-lille-bror--Ett--ktenskaps-roman
 gutenberg_issued: '2009-04-02'
 gutenberg_type: Text
 identifiers:
