@@ -1,0 +1,32 @@
+_repo: Boken-om-lille-bror--Ett--ktenskaps-roman_28473
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Geijerstam, Gustaf af
+    aliases:
+    - Af Geijerstam, Gustaf
+    - Geijerstam, Gustav
+    birthdate: 1858
+    deathdate: 1909
+    gutenberg_agent_id: '33352'
+    url: http://www.gutenberg.org/2009/agents/33352
+    wikipedia: http://sv.wikipedia.org/wiki/Gustaf_af_Geijerstam
+description: ''
+gutenberg_issued: '2009-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28473'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Married people -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Sweden -- Fiction'
+title: 'Boken om lille-bror: Ett äktenskaps roman'
+url: http://www.gutenberg.org/ebooks/28473
